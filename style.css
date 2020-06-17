@@ -19,6 +19,14 @@
   #steps .row>.left, #steps .row>.central, #steps .row>.right {
    width: 100%;
   }
+
+  #lezioni .row img{
+    width: 50%;
+  }
+
+  #steps .row img{
+    width: 50%;
+  }
 }
 
 /* BLOCCO LEZIONI */
